@@ -8,5 +8,6 @@ def turn_count(board)
     if pos == "X" or "O"
       count += 1
   end
+end
   count
 end
